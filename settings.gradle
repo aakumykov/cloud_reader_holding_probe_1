@@ -22,4 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "cloud_reader_holding_probe_1"
 include ':app'
 include ':cloud_reader'
+include ':cloud_writer'
 
